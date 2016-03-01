@@ -4,3 +4,6 @@ c:\users\tikhomirovds\documents\visual studio 2013\Projects\IrbisXML\IrbisXML\bi
 c:\users\tikhomirovds\documents\visual studio 2013\Projects\IrbisXML\IrbisXML\obj\Debug\IrbisXML.csprojResolveAssemblyReference.cache
 c:\users\tikhomirovds\documents\visual studio 2013\Projects\IrbisXML\IrbisXML\obj\Debug\IrbisXML.exe
 c:\users\tikhomirovds\documents\visual studio 2013\Projects\IrbisXML\IrbisXML\obj\Debug\IrbisXML.pdb
+C:\Users\tikhomirovds\Source\Repos\irbis\IrbisXML\bin\Debug\IrbisXML.exe.config
+C:\Users\tikhomirovds\Source\Repos\irbis\IrbisXML\obj\Debug\IrbisXML.exe
+C:\Users\tikhomirovds\Source\Repos\irbis\IrbisXML\obj\Debug\IrbisXML.pdb
