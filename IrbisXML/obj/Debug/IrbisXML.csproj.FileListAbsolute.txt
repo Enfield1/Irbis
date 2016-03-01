@@ -1,0 +1,6 @@
+c:\users\tikhomirovds\documents\visual studio 2013\Projects\IrbisXML\IrbisXML\bin\Debug\IrbisXML.exe.config
+c:\users\tikhomirovds\documents\visual studio 2013\Projects\IrbisXML\IrbisXML\bin\Debug\IrbisXML.exe
+c:\users\tikhomirovds\documents\visual studio 2013\Projects\IrbisXML\IrbisXML\bin\Debug\IrbisXML.pdb
+c:\users\tikhomirovds\documents\visual studio 2013\Projects\IrbisXML\IrbisXML\obj\Debug\IrbisXML.csprojResolveAssemblyReference.cache
+c:\users\tikhomirovds\documents\visual studio 2013\Projects\IrbisXML\IrbisXML\obj\Debug\IrbisXML.exe
+c:\users\tikhomirovds\documents\visual studio 2013\Projects\IrbisXML\IrbisXML\obj\Debug\IrbisXML.pdb
