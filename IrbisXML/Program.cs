@@ -59,6 +59,15 @@ namespace IrbisXML
                         flagConsole = true;
                         listInput[i] += "^!" + tempMestopol;
                     }
+
+                    //помечаем проверенную книгу кодом
+                    if (!listInput[i].Contains("^S"))
+                    {
+                        flagConsole = true;
+                        //20160200 - дата проверки
+                        listInput[i] += "^S20160200";
+                    }
+
                     //записываем измененную строку в лог-файл, если одно из двух предыдущих условний было выполнено
                     if (flagConsole) { swLog.WriteLine(listInput[i]); countChange++; }
                     
